@@ -1,6 +1,6 @@
 ## COSC 201 Final Review
 
-[Download COSC 201 Final Review](https://github.com/feynmanliang/COSC-201-Final-Review/blob/master/study-guide/study-guide.pdf?raw=true)    
+[Download COSC 201 Final Review](https://github.com/feynmanliang/COSC201-Final-Review/blob/master/COSC201_Final_Review.pdf?raw=true)    
 
 This is a review sheet for the final exam in the 2012 Data Structures and
 Algorithms I (COSC-201) course at Amherst College. 
